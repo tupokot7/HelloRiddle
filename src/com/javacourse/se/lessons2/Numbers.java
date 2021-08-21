@@ -13,15 +13,4 @@ public class Numbers {
     static double g = 6.3;                   //2^64                              (от ~-4,9*10-324 до ~1,8*10^308)
 
     static boolean h = true;                 //8 bit (в массивах) и 32 bit (не в массивах)
-
-    public static void main(String[] args) {
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(d);
-        System.out.println(e);
-        System.out.println(f);
-        System.out.println(g);
-        System.out.println(h);
-    }
 }
