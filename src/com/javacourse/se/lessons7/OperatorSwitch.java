@@ -2,7 +2,7 @@ package com.javacourse.se.lessons7;
 
 public class OperatorSwitch {
 
-    final int VALUE = 2, FIRSTNAME = 1, SECONDLY = 4, THIRDLY = 3;
+    final int VALUE = 1, FIRSTNAME = 1, SECONDLY = 4, THIRDLY = 3;
 //    int value = 2, firstValue = 1, secondValue = 2, thirdValue = 3;
 
     public void foo() {
